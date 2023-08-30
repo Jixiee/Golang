@@ -26,48 +26,48 @@ GoLang also has data types like byte (alias for uint8), rune (alias for int32, u
 ## Variable Declaration, Initialization, and Scoping:-
 ### Variable Declaration:
 
-Variables are declared using the var keyword, followed by the variable name and type.
+- Variables are declared using the var keyword, followed by the variable name and type.
 ```
 var age int
 var name string
 ```
-You can also declare multiple variables of the same type in a single statement.
+- You can also declare multiple variables of the same type in a single statement.
 ```
 var x, y, z int
 ```
 ### Variable Initialization:
 
-Variables can be initialized with values at the time of declaration.
+- Variables can be initialized with values at the time of declaration.
 ```
 var count int = 10
 var message string = "Hello, Go!"
 ```
-GoLang can infer the variable type based on the provided value.
+- GoLang can infer the variable type based on the provided value.
 ``` 
 var score = 95 // score is inferred as int
 ```
 ### Short variable declaration:
-:= is used to declare and initialize variables without explicitly stating the type.
+- := is used to declare and initialize variables without explicitly stating the type.
 ```
 speed := 50 // Inferred as int
 ```
 ### Variable Scoping:
-In GoLang, variables have block scope. They are only accessible within the block of code where they are declared.
-Function parameters and local variables are block-scoped.
+- In GoLang, variables have block scope. They are only accessible within the block of code where they are declared.
+- Function parameters and local variables are block-scoped.
 
 ## Constants and iota:-
-- ### Constants:
-Constants are named values that cannot be changed after they are defined.
-They are created using the const keyword.
+### Constants:
+- Constants are named values that cannot be changed after they are defined.
+- They are created using the const keyword.
 ```
 const pi = 3.14
 const daysInWeek = 7
 ```
-Constants can be of any data type.
+- Constants can be of any data type.
 
-- ### iota:
-iota is a special pre-declared identifier in GoLang that's used in constant declarations.
-It starts from 0 and increments by 1 for each subsequent constant.
+### iota:
+- iota is a special pre-declared identifier in GoLang that's used in constant declarations.
+- It starts from 0 and increments by 1 for each subsequent constant.
 ```
 const (
     Sunday    = iota // 0
@@ -76,4 +76,4 @@ const (
     // and so on
 )
 ```
-iota can be used to create sequential values for enums or bit flags.
+- iota can be used to create sequential values for enums or bit flags.
