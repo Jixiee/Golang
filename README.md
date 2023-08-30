@@ -105,6 +105,12 @@ This section provides the code for a simple calculator program that performs fou
 
 For the executable code, check out the [Calculator](Codes/Calculator.go) file.
 
+## ToDo List
+
+This section provides the code for maintaining a ToDo List. You can easily edit the tasks performed and erase it from the list
+
+For the executable code, check out the [ToDo List](Codes/ToDo_List.go) file.
+
 ---
 
 Feel free to explore different topics by navigating through the links provided above. Happy learning and coding with GoLang!
