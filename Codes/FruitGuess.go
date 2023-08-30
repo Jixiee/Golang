@@ -1,4 +1,4 @@
-//Write a program to guess the fruit the computer has selected 
+//Write a program to guess the fruit the computer has selected in only 5 attempts
 package main
 
 import (
