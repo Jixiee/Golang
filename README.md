@@ -18,11 +18,11 @@ Welcome to the GoLang Notes and Code repository! This repository is a collection
 - [Glossary](#glossary)
 
   ### Codes
-- [Hello World](#Hello_World)
+- [Hello World](#Hello-World)
 - [Calculator](#Calculator)
-- [ToDo List](#ToDo_List)
-- [Temperature Converter](#Temperature_converter)
-- [Number Game](#Number_Game)
+- [ToDo List](#ToDo-List)
+- [Temperature Converter](#Temperature-converter)
+- [Number Game](#Number-Game)
   
 # Notes
 ## Introduction and Basics
@@ -93,6 +93,11 @@ A glossary of GoLang terms and concepts for quick reference.
 For detailed definitions, check out the [Glossary](Notes/Glossary.md) file.
 
 # Codes
+## Hello World
+
+This section provides the code for printing "Hello World" message. From where it all starts.
+
+For the executable code, check out the [Hello World](Codes/Hello_World.go) file.
 
 ---
 
