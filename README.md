@@ -23,6 +23,7 @@ Welcome to the GoLang Notes and Code repository! This repository is a collection
 - [ToDo List](#ToDo-List)
 - [Temperature Converter](#Temperature-converter)
 - [Number Game](#Number-Game)
+- [Fruit Guess](#FruitGuess)
   
 # Notes
 ## Introduction and Basics
@@ -122,6 +123,13 @@ For the executable code, check out the [Temperature Converter](Codes/Temperature
 This section provides the code for guessing a random number selected by computer
 
 For the executable code, check out the [Number Game](Codes/Number_Game.go) file.
+
+## Fruit Guess
+
+This section provides the code for guessing a fruit selected by computer in five attempts.
+
+For the executable code, check out the [Fruit Guess](Codes/FruitGuess.go) file.
+
 
 ---
 
