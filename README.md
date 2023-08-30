@@ -111,11 +111,17 @@ This section provides the code for maintaining a ToDo List. You can easily edit 
 
 For the executable code, check out the [ToDo List](Codes/ToDo_List.go) file.
 
-## Hello World
+## Temperature Converter
 
 This section provides the code for converting Temperature from Celcius to Fahrenheit and vice versa.
 
 For the executable code, check out the [Temperature Converter](Codes/Temperature_Converter.go) file.
+
+## Number Game
+
+This section provides the code for guessing a random number selected by computer
+
+For the executable code, check out the [Number Game](Codes/Number_Game.go) file.
 
 ---
 
