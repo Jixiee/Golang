@@ -5,30 +5,72 @@ Welcome to the GoLang Notes and Code repository! This repository is a collection
 
 ## Table of Contents
 
-- [Introduction and Basics]
-- [Data Types and Variables]
-- [Functions]
-- [Control Structures]
-- [Data Structures]
-- [Error Handling]
-- [Concurrency and Goroutines]
-- [Packages and Modules]
-- [File I/O and JSON]
-- [Advanced Topics]
-- [Best Practices]
-
+- [Introduction and Basics](#introduction-and-basics)
+- [Data Types and Variables](#data-types-and-variables)
+- [Functions](#functions)
+- [Control Structures](#control-structures)
+- [Data Structures](#data-structures)
+- [Error Handling](#error-handling)
+- [Concurrency and Goroutines](#concurrency-and-goroutines)
+- [Packages and Modules](#packages-and-modules)
+- [File I/O and JSON](#file-io-and-json)
+- [Advanced Topics](#advanced-topics)
+- [Glossary](#glossary)
 
 ## Introduction and Basics
 
 This section provides an introduction to GoLang, its key features, and covers the basic syntax including variables, data types, operators, and control structures. It also includes a "Hello, World!" example.
 
-For detailed notes and examples, check out the [Introduction and Basics] file.
+For detailed notes and examples, check out the [Introduction and Basics](Notes/Introduction_and_Basics.md) file.
 
 ## Data Types and Variables
 
 Learn about different data types in GoLang and how to declare and initialize variables.
 
-For detailed notes and examples, check out the [Data Types and Variables] file.
+For detailed notes and examples, check out the [Data Types and Variables](Notes/Data_Types_and_Variables.md) file.
+
+## Functions
+
+Explore function declaration, arguments, return values, and more.
+
+For detailed notes and examples, check out the [Functions](Notes/functions.md) file.
+
+## Control Structures
+
+Understand conditional statements (if), switch statements, and loops (for and range).
+
+For detailed notes and examples, check out the [Control Structures](Notes/Control_Structures.md) file.
+
+## Data Structures
+
+Learn about arrays, slices, maps, structs, and pointers.
+
+For detailed notes and examples, check out the [Data Structures](Notes/Data_Structures.md) file.
+
+## Error Handling
+
+Discover error handling techniques and best practices in GoLang.
+
+For detailed notes and examples, check out the [Error Handling](Notes/Error_Handling.md) file.
+
+## Concurrency and Goroutines
+
+Explore concurrency, goroutines, and channels for concurrent programming.
+
+For detailed notes and examples, check out the [Concurrency and Goroutines](Notes/Concurrency_and_Goroutines.md) file.
+
+## Packages and Modules
+
+Understand how to organize your code into packages and work with modules.
+
+For detailed notes and examples, check out the [Packages and Modules](Notes/Packages_and_Modules.md) file.
+
+## File I/O and JSON
+
+Learn about reading and writing files, as well as working with JSON data.
+
+For detailed notes and examples, check out the [File I/O and JSON](Notes/FileIO_and_JSON.md) file.
+
 
 ---
 
