@@ -99,6 +99,12 @@ This section provides the code for printing "Hello World" message. From where it
 
 For the executable code, check out the [Hello World](Codes/Hello_World.go) file.
 
+## Calculator
+
+This section provides the code for a simple calculator program that performs four basic arithmetic operations: =.-.*./
+
+For the executable code, check out the [Calculator](Codes/Calculator.go) file.
+
 ---
 
 Feel free to explore different topics by navigating through the links provided above. Happy learning and coding with GoLang!
