@@ -4,7 +4,7 @@
 Welcome to the GoLang Notes and Code repository! This repository is a collection of notes, code snippets, and examples for learning the Go programming language.
 
 ## Table of Contents
-
+### Notes
 - [Introduction and Basics](#introduction-and-basics)
 - [Data Types and Variables](#data-types-and-variables)
 - [Functions](#functions)
@@ -17,6 +17,14 @@ Welcome to the GoLang Notes and Code repository! This repository is a collection
 - [Advanced Topics](#advanced-topics)
 - [Glossary](#glossary)
 
+  ### Codes
+- [Hello World](#Hello_World)
+- [Calculator](#Calculator)
+- [ToDo List](#ToDo_List)
+- [Temperature Converter](#Temperature_converter)
+- [Number Game](#Number_Game)
+  
+# Notes
 ## Introduction and Basics
 
 This section provides an introduction to GoLang, its key features, and covers the basic syntax including variables, data types, operators, and control structures. It also includes a "Hello, World!" example.
@@ -84,6 +92,7 @@ A glossary of GoLang terms and concepts for quick reference.
 
 For detailed definitions, check out the [Glossary](Notes/Glossary.md) file.
 
+# Codes
 
 ---
 
