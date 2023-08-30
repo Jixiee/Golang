@@ -71,6 +71,19 @@ Learn about reading and writing files, as well as working with JSON data.
 
 For detailed notes and examples, check out the [File I/O and JSON](Notes/FileIO_and_JSON.md) file.
 
+## Advanced Topics
+
+Explore more advanced topics like interfaces, mutexes, reflection, and unit testing.
+
+For detailed notes and examples, check out the [Advanced Topics](Notes/Advanced_Topics.md) file.
+
+
+## Glossary
+
+A glossary of GoLang terms and concepts for quick reference.
+
+For detailed definitions, check out the [Glossary](Notes/Glossary.md) file.
+
 
 ---
 
