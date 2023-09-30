@@ -92,7 +92,6 @@ func main() {
 - Use the encoding/json package to convert JSON to Go data structures.
 ```
 package main
-
 import (
 	"encoding/json"
 	"fmt"
