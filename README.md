@@ -29,7 +29,6 @@ Welcome to the GoLang Notes and Code repository! This repository is a collection
 ## Introduction and Basics
 
 This section provides an introduction to GoLang, its key features, and covers the basic syntax including variables, data types, operators, and control structures. It also includes a "Hello, World!" example.
-
 For detailed notes and examples, check out the [Introduction and Basics](Notes/Introduction_and_Basics.md) file.
 
 ## Data Types and Variables
